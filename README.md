@@ -4,7 +4,7 @@ This project is a machine learning application that predicts the outcome of Prem
 
 
 
-Features
+# Features
 - Predicts match outcomes based on:
   + Possession difference between teams
   + Shot difference between teams
@@ -15,7 +15,7 @@ Features
 
 
 
-How to Run:
+# How to Run:
 
 1- Install dependencies: pip install -r requirements.txt
 
@@ -27,7 +27,7 @@ How to Run:
 
 
 
-Usage
+# Usage
 - Enter the match statistics in the GUI:
   + Possession Difference (%): Home team possession minus away team possession
   + Shot Difference: Home team shots minus away team shots
