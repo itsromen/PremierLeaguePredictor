@@ -22,9 +22,9 @@ How to Run:
 4- Launch the GUI application: python gui_app.py
  
 Usage:
-1- Enter the match statistics in the GUI:
- - Possession Difference (%): Home team possession minus away team possession
- - Shot Difference: Home team shots minus away team shots
- - Attendance: Total number of spectators at the match
-2- Click "Predict Outcome" to see the predicted result and confidence levels
-3- Use "Sample Data" to load example values or "Clear" to reset the inputs
+- Enter the match statistics in the GUI:
+ + Possession Difference (%): Home team possession minus away team possession
+ + Shot Difference: Home team shots minus away team shots
+ + Attendance: Total number of spectators at the match
+- Click "Predict Outcome" to see the predicted result and confidence levels
+- Use "Sample Data" to load example values or "Clear" to reset the inputs
