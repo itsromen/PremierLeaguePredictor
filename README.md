@@ -29,8 +29,8 @@ How to Run:
 
 Usage
 - Enter the match statistics in the GUI:
- + Possession Difference (%): Home team possession minus away team possession
- + Shot Difference: Home team shots minus away team shots
- + Attendance: Total number of spectators at the match
+  + Possession Difference (%): Home team possession minus away team possession
+  + Shot Difference: Home team shots minus away team shots
+  + Attendance: Total number of spectators at the match
 - Click "Predict Outcome" to see the predicted result and confidence levels
 - Use "Sample Data" to load example values or "Clear" to reset the inputs
