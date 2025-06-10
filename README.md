@@ -13,17 +13,13 @@ Features
 
 How to Run:
 
-1- Install dependencies
- pip install -r requirements.txt
+1- Install dependencies: pip install -r requirements.txt
 
-2- Run the data preprocessing script:
- python preprocess.py
+2- Run the data preprocessing script: python preprocess.py
 
-3- Train the machine learning model:
- python train_model.py
+3- Train the machine learning model: python train_model.py
 
-4- Launch the GUI application:
- python gui_app.py
+4- Launch the GUI application: python gui_app.py
  
 Usage:
 1- Enter the match statistics in the GUI:
